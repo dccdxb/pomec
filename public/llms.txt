@@ -1,0 +1,15 @@
+# Pomec Technology
+> Property management and building facility management in Bangalore, India.
+
+Based on Hennur Bagalur Road, Bangalore, Karnataka. Phone: +91 96204 79934. Email: pomect@gmail.com.
+Services include property management, building facility management and annual maintenance contracts. Coverage and pricing are confirmed by written quotation. No published fixed rates or guaranteed emergency response.
+
+## Pages
+- [Home](https://pomec-technology-website.netlify.app)
+- [Services](https://pomec-technology-website.netlify.app/services)
+- [Amc](https://pomec-technology-website.netlify.app/amc)
+- [Price](https://pomec-technology-website.netlify.app/price)
+- [Contact](https://pomec-technology-website.netlify.app/contact)
+- [About](https://pomec-technology-website.netlify.app/about)
+- [Blog](https://pomec-technology-website.netlify.app/blog)
+- [Faq](https://pomec-technology-website.netlify.app/faq)

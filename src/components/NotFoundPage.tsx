@@ -1,0 +1,1 @@
+export function NotFoundPage() { return <main className="section"><h1>Page not found</h1><p>The page you are looking for is unavailable.</p><a className="button dark" href="/">Return to Pomec Technology</a></main> }
